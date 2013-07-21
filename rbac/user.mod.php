@@ -8,7 +8,7 @@ class UserModel extends Model {
 
         $this->_db = new Database('***');
         $this->_db->load('**');
-	}
-	
+    }
+    
     
 }
